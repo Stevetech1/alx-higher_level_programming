@@ -119,7 +119,7 @@ Test case #10: A test case with a matrix of empty lists
 
 Test case #11: A test case with a matrix of empty lists
     >>> matrix = [[], []]
-    >>> type(matrix_divided(matrix, 3))
+    >>> typeError(matrix_divided(matrix, 3))
     Traceback (most recent call last):
     TypeError: matrix must be a matrix (list of lists) of integers/floats
 
