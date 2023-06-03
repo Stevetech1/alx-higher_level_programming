@@ -7,26 +7,16 @@ Marketplace
 Explore
  
 @Stevetech1 
-Superstazdare
 /
 alx-higher_level_programming
 Public
-Fork your own copy of Superstazdare/alx-higher_level_programming
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
 Beta Try the new code view
 alx-higher_level_programming/0x07-python-test_driven_development/tests/100-matrix_mul.txt
-@Superstazdare
-Superstazdare text driven
+@Stevetech1
+Stevetech1 text driven
 Latest commit 8a029b6 2 weeks ago
  History
- 1 contributor
-237 lines (177 sloc)  5.06 KB
+ 237 lines (177 sloc)  5.06 KB
  
 
 # 100-matrix_mul.txt
