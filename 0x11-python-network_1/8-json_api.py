@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Write a python script that Use requests package to make a post request to given URL with argument
+Use requests package to make a post request to given URL with argument
 set in variable `q`, defaulting to empty string. If response body is properly
 JSON formatted and not empty, display `id` and `name` as given format.
 Otherwise display error message.

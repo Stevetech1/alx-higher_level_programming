@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """
 My github!
-Im writting a Python script that takes my github credentials (username and password)
-and uses the github API to display my id
+takes my Github credentials (username and password)
+and uses the Github API to display my id
 """
 
 import requests

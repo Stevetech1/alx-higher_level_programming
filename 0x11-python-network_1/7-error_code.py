@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Write python script that Use requests package to make a get request to given URL and display
+Use requests package to make a get request to given URL and display
 the body of response, or error code if error.
 """
 import sys
